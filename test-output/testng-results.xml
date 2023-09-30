@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T17:21:25 IST" name="Default suite" finished-at="2023-09-30T17:21:43 IST" duration-ms="18004">
+    <groups>
+      <group name="smoke,Integration">
+        <method signature="Sample2Test.sample()[pri:0, instance:manasa.Sample2Test@2eae8e6e]" name="sample" class="manasa.Sample2Test"/>
+      </group> <!-- smoke,Integration -->
+    </groups>
+    <test started-at="2023-09-30T17:21:25 IST" name="Default test" finished-at="2023-09-30T17:21:43 IST" duration-ms="18004">
+      <class name="manasa.Sample2Test">
+        <test-method signature="sample()[pri:0, instance:manasa.Sample2Test@2eae8e6e]" started-at="2023-09-30T17:21:25 IST" name="sample" finished-at="2023-09-30T17:21:43 IST" duration-ms="17872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- manasa.Sample2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
